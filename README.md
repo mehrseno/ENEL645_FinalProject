@@ -1,5 +1,4 @@
-# ENEL 645 Final Project: Analyzing MBTI Through Language
-
+# ENEL 645 Final Project: Analyzing MBTI Using Traditional Machine Learning and Deep Learning Models
 ## Description
 This project aims to predict Myers-Briggs Type Indicator (MBTI) personality types by applying natural language processing techniques to textual data from social media posts. It incorporates a mix of machine learning and deep learning models to classify the personality types effectively.
 
